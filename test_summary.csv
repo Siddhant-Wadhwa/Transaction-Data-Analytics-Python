@@ -1,0 +1,5 @@
+test,n_flagged,pct_of_dataset
+Round-number,8265,5.41
+Unusual timing (revised),608,0.40
+Duplicate / near-duplicate,14595,9.56
+Threshold clustering,1445,0.95

@@ -1,0 +1,16 @@
+RowId,PaymentDate,Payee,Department,ExpenseCategory,Amount,flag_round,flag_timing,flag_duplicate,flag_threshold,n_tests_flagged
+4330269-NGA110625-821309,2025-11-17,EXTREME TOWING & RECOVERY,Police Department,Professional Services,100.0,True,False,True,False,2
+50546127-102-812018,2025-10-27,SUSTAINED FARMS,Mayor's Office of Education and Children,Professional Services,9000.0,True,False,False,True,2
+50515652-1905556671-743762,2025-05-19,CINTAS CORPORATION NO 2,DOTI,Clothing Supplies and Material,300.0,True,False,True,False,2
+4329454-092025-817832,2025-11-07,COLORADO COALITION FOR THE HOMELESS,Safety Administration,Professional Services,4500.0,True,False,True,False,2
+50554107-M77842-831989,2025-12-11,TOWLIFT,Department of Finance,Building and Construction Supp,14700.0,True,True,False,False,2
+4370817-0008653881-833223,2025-12-12,APEX SYSTEMS LLC,Wastewater Management Division,Professional Services,9467.72,False,True,False,True,2
+3896609-SVC272553082-691951,2025-01-17,DH PACE COMPANY INC,Denver Public Library,Repair and Maintenance of Buil,300.0,True,False,True,False,2
+50514221-INV66048-740561,2025-05-12,BIG TRUCK RENTAL LLC,DOTI,Leases and Rentals,13300.0,True,False,True,False,2
+3916660-871565916-696478,2025-01-30,KONE INC,Service Delivery and Administration,Repair and Maintenance of Buil,700.0,True,False,True,False,2
+4185275-1JUN25-775175,2025-07-31,JUSTICE AND MERCY LEGAL AID CENTER,Human Rights - Community Relations,Professional Services,5700.0,True,False,True,False,2
+4289297-PI4364-806996,2025-10-16,DRAGONFRUIT MEDIA GROUP,Arts and Venues Division,Professional Services,4500.0,True,False,True,False,2
+4123243-LO061225-759785,2025-06-25,EXTREME TOWING & RECOVERY,Police Department,Professional Services,100.0,True,False,True,False,2
+4186631-NG072425-779132,2025-08-11,EXTREME TOWING & RECOVERY,Police Department,Professional Services,200.0,True,False,True,False,2
+4019411-110250014712-728762,2025-04-11,EJ USA INC,Wastewater Management Division,Building and Construction Supp,9097.92,False,False,True,True,2
+50512675-9022386610-737800,2025-05-02,VERIZON WIRELESS,Police Department,Utilities,100.0,True,False,True,False,2
